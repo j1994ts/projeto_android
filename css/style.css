@@ -41,7 +41,6 @@ header{
     padding-top: 15px;
     background-image:linear-gradient(to bottom, var(--cor04), var(--cor06));
     font-family: var(--font-destaque);
-    min-width: 400px;
 }
 
 header > h1{
